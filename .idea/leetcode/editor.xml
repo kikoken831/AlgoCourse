@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[1773]Count Items Matching a Rule.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[1773]Count Items Matching a Rule.md" />
+              <option name="frontendQuestionId" value="leetcode.com1773" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[1773]Count Items Matching a Rule.java" />
+              <option name="titleSlug" value="count-items-matching-a-rule" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[1]Two Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[1]Two Sum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[217]Contains Duplicate.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[217]Contains Duplicate.md" />
+              <option name="frontendQuestionId" value="leetcode.com217" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[217]Contains Duplicate.java" />
+              <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[238]Product of Array Except Self.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[238]Product of Array Except Self.md" />
+              <option name="frontendQuestionId" value="leetcode.com238" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[238]Product of Array Except Self.java" />
+              <option name="titleSlug" value="product-of-array-except-self" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[242]Valid Anagram.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[242]Valid Anagram.md" />
+              <option name="frontendQuestionId" value="leetcode.com242" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[242]Valid Anagram.java" />
+              <option name="titleSlug" value="valid-anagram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[347]Top K Frequent Elements.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[347]Top K Frequent Elements.md" />
+              <option name="frontendQuestionId" value="leetcode.com347" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[347]Top K Frequent Elements.java" />
+              <option name="titleSlug" value="top-k-frequent-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[49]Group Anagrams.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/doc/content/[49]Group Anagrams.md" />
+              <option name="frontendQuestionId" value="leetcode.com49" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/2d/2_l4krw11ksdxykh0wnch0ww0000gn/T/leetcode/editor/en/[49]Group Anagrams.java" />
+              <option name="titleSlug" value="group-anagrams" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
